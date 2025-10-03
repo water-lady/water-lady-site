@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1980 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient definitions for fading sides -->
+  <defs>
+    <linearGradient id="fadeLeftToRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:white;stop-opacity:0" />
+      <stop offset="15%" style="stop-color:white;stop-opacity:1" />
+      <stop offset="85%" style="stop-color:white;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:white;stop-opacity:0" />
+    </linearGradient>
+    
+    <mask id="fadeMask">
+      <rect x="0" y="0" width="1980" height="300" fill="url(#fadeLeftToRight)"/>
+    </mask>
+  </defs>
+  
+  <!-- Main content group with fade mask -->
+  <g mask="url(#fadeMask)">
+  
+  <!-- Side View of Spool Flange - First Instance -->
+  <g id="side-view-1">
+    <!-- Pipe section (combined with left extension) -->
+    <rect x="0" y="75" width="610" height="90" fill="#b0b0b0" stroke="#333" stroke-width="2"/>
+    
+    <!-- Pipe highlight (combined with left extension) -->
+    <rect x="2" y="77" width="606" height="25" fill="#d0d0d0" opacity="0.6"/>
+    
+    <!-- Right flange -->
+    <rect x="610" y="40" width="40" height="160" fill="#999" stroke="#333" stroke-width="2"/>
+  </g>
+  
+  <!-- Side View of Spool Flange - Second Instance -->
+  <g id="side-view-2">
+    <!-- Left flange -->
+    <rect x="650" y="40" width="40" height="160" fill="#999" stroke="#333" stroke-width="2"/>
+    
+    <!-- Pipe section -->
+    <rect x="690" y="75" width="610" height="90" fill="#b0b0b0" stroke="#333" stroke-width="2"/>
+    
+    <!-- Pipe highlight -->
+    <rect x="692" y="77" width="606" height="25" fill="#d0d0d0" opacity="0.6"/>
+    
+    <!-- Right flange -->
+    <rect x="1300" y="40" width="40" height="160" fill="#999" stroke="#333" stroke-width="2"/>
+    
+    <!-- Green label on pipe -->
+    <rect x="740" y="95" width="510" height="50" rx="5" fill="#2d8659" stroke="#1f6d45" stroke-width="2"/>
+    
+    <!-- Label text -->
+    <text x="995" y="125" font-family="Arial, sans-serif" font-size="26" font-weight="900" fill="white" letter-spacing="3" text-anchor="middle" dominant-baseline="middle">
+      DENNING WATER SOLUTIONS
+    </text>
+  </g>
+  
+  <!-- Side View of Spool Flange - Third Instance -->
+  <g id="side-view-3">
+    <!-- Left flange -->
+    <rect x="1340" y="40" width="40" height="160" fill="#999" stroke="#333" stroke-width="2"/>
+    
+    <!-- Pipe section (combined with right extension) -->
+    <rect x="1380" y="75" width="610" height="90" fill="#b0b0b0" stroke="#333" stroke-width="2"/>
+    
+    <!-- Pipe highlight (combined with right extension) -->
+    <rect x="1382" y="77" width="606" height="25" fill="#d0d0d0" opacity="0.6"/>
+  </g>
+  </g>
+</svg>
