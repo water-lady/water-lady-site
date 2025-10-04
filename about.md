@@ -7,7 +7,7 @@ title: About
   <div class="about-container">
     <img src="/assets/images/water_drop.jpg" alt="Alana Denning" class="about-headshot">
     <h1>About Alana Denning</h1>
-    <p class="about-subtitle">Water & Wastewater Treatment Engineer</p>
+    <p class="about-subtitle">Water & Wastewater Treatment Engineering Consultant</p>
   </div>
 </div>
 
@@ -24,23 +24,22 @@ title: About
       </div>
       
       <div class="timeline-item">
-        <h3>Senior Process Engineer</h3>
-        <p><strong>Page Southerland Page</strong> | Nov 2020 - Aug 2024 | Austin, TX</p>
+        <h3> Water and Wastewater Experience</h3>
+        <p><strong>Senior Process Engineer - Page Southerland Page</strong> | Nov 2020 - Aug 2024 </p>
         <p>Design lead for industrial/advanced manufacturing water and wastewater treatment projects. Managed interdisciplinary teams of engineers and designers, provided technical direction, and developed QAQC guidelines. Experience includes BOD development, P&ID standards, UPW distribution system design, waste collection system design, and commissioning support.</p>
-        <p><strong>Notable Projects:</strong> Confidential semiconductor manufacturer (Texas) - Waste acid collection systems, process specialty chemical handling, supply and FAB distribution systems, and As Built P&ID updates for all facilities systems | Confidential EV manufacturer (Texas) - Wastewater treatment including organics removal, solids removal and neutralization | Confidential EV manufacturer (Nevada) - ZLD wastewater system design (embedded staff augmentation) | Confidential Cu Foil facility (Nevada) - Water and wastewater system design and primary process HAZOP analysis | Confidential solar manufacturer (Alabama) - FEED study for all process services including water treatment and ZLD wastewater system | Confidential wafer manufacturer (North Carolina) - RO/DI systems, waste neutralization, and reclaim systems | Confidential semiconductor and component manufacturer (Massachusetts) - Basis of Design for process systems to be used for CHIPS Act Funding application</p>
-      </div>
-      
-      <div class="timeline-item">
-        <h3>Facilities UPW Process Engineer</h3>
-        <p><strong>Samsung Austin Semiconductor</strong> | May 2017 - Oct 2020 | Austin, TX</p>
+
+        <p><strong>Facilities UPW Engineer - Samsung Austin Semiconductor</strong> | May 2017 - Oct 2020 </p>
         <p>Primary owner for makeup and polish blocks, waste transfer and scrubber supply systems. Backup owner for primary block and recovery systems. Monitored system health, performed risk analysis, executed troubleshooting, and implemented process improvements. Led commissioning for temporary RO pretreatment system and coordinated planned Hot UPW system shutdown maintenance project.</p>
+        
+        
+  <!-- <p><strong>Notable Projects:</strong> Confidential semiconductor manufacturer (Texas) - Waste acid collection systems, process specialty chemical handling, supply and FAB distribution systems, and As Built P&ID updates for all facilities systems | Confidential EV manufacturer (Texas) - Wastewater treatment including organics removal, solids removal and neutralization | Confidential EV manufacturer (Nevada) - ZLD wastewater system design (embedded staff augmentation) | Confidential Cu Foil facility (Nevada) - Water and wastewater system design and primary process HAZOP analysis | Confidential solar manufacturer (Alabama) - FEED study for all process services including water treatment and ZLD wastewater system | Confidential wafer manufacturer (North Carolina) - RO/DI systems, waste neutralization, and reclaim systems | Confidential semiconductor and component manufacturer (Massachusetts) - Basis of Design for process systems to be used for CHIPS Act Funding application</p>-->
       </div>
       
       <div class="timeline-item">
         <h3>Early Career</h3>
-        <p><strong>Failure Analysis Engineer, Samsung Austin Semiconductor</strong> | Jun 2015 - May 2017</p>
+        <p><strong>Failure Analysis Engineer - Samsung Austin Semiconductor</strong> | Jun 2015 - May 2017</p>
         <p>Determined failure mechanisms based on SEM defect images, electrical nanoProbe data and TEM data. Coordinated experiments to determine root cause of top yield killing defects and worked with unit part engineers to implement improvements.</p>
-        <p><strong>Research Assistant, University of Oklahoma</strong> | May 2011 - Dec 2014</p>
+        <p><strong>Research Assistant - University of Oklahoma</strong> | May 2011 - Dec 2014</p>
         <p>Developed, characterized and tested catalysts for biomass to bio-fuel conversion. Served as lab safety coordinator ensuring safe practices and regulatory compliance.</p>
       </div>
     </div>
@@ -86,7 +85,7 @@ title: About
 
   <section class="about-section">
     <h2>Approach to Work and Problem Solving</h2>
-    <p>Having worked on both sides of the fence—in plant operations and engineering design—I bring a practical, operations-focused perspective to every project. I believe the best designs are those that operators can actually maintain and troubleshoot effectively.</p>
+    <p>I'm passionate about making complex engineering concepts accessible. I love working with interdisciplinary teams on projects where we all learn from each other and I always try to learn enough about other disciplines to be somewhat of a generalist in addition to having subject matter expertise on water and wastewater topics.</p>
     
     <div class="approach-grid">
       <div class="approach-item">
@@ -123,7 +122,9 @@ title: About
 
   <section class="about-section alternate">
     <h2>Personal</h2>
-    <p>I'm passionate about making complex engineering concepts accessible but When I'm not designing water treatment systems, you can find me working in my native plant garden (I garden by attrition) or spending time with my not-so-aptly named foster dog "Angel".</p>
+    <p> 
+    
+    When I'm not designing water treatment systems, you can find me admiring drought tolerant native plants in my yard (I garden by attrition) or at the wildflower center in Austin, TX. If I am not there I will be spending time with my not-so-aptly-named foster dog "Angel".</p>
     
     <p class="quote">"I know what words to google" - Me, probably, at some point</p>
   </section>

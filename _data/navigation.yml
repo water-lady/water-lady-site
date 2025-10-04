@@ -2,9 +2,11 @@
   link: /
 - name: About
   link: /about.html
+  #-name: Projects
+  #link: /projects.html
 - name: Contact
   link: /contact.html
-- name: Resources
-  link: /resources.html
-- name: Industry Topics
-  link: /blog.html
+#- name: Resources
+#  link: /resources.html
+#- name: Industry Topics
+# link: /blog.html

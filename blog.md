@@ -2,6 +2,12 @@
 layout: default
 title: Blog
 ---
+
+# Industry Topics Page
+
+This page is under construction. 
+
+<!--
 <h1>Latest Posts</h1>
 
 <ul>
@@ -12,3 +18,4 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+-->

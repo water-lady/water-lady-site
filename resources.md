@@ -2,6 +2,6 @@
 layout: default
 title: Resources
 ---
-# Resources page
+# Resources Page
 
-These are some helpful resources I have have referenced previously. 
+This page is under construction. 
