@@ -5,7 +5,7 @@ title: About
 
 <div class="about-hero">
   <div class="about-container">
-    <img src="/assets/images/water_drop.jpg" alt="Alana Denning" class="about-headshot">
+    <img src="/assets/images/ALD_Headshot.png" alt="Alana Denning" class="about-headshot">
     <h1>About Alana Denning</h1>
     <p class="about-subtitle">Water & Wastewater Treatment Engineering Consultant</p>
   </div>
